@@ -1,0 +1,6 @@
+*.txt
+*/.idea
+*/out
+*/bin
+*/test
+*.iml
